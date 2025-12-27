@@ -1,2 +1,3 @@
 Renamed README file to correct extension
-author aayush
+<br>
+author Aayush patidar
