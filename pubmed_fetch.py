@@ -50,3 +50,5 @@ if __name__ == "__main__":
     xml_data = fetch_details(ids)
     filtered = parse_and_filter(xml_data)
     save_to_csv(filtered)
+    
+    print(f"\nTotal papers fetched: {len(ids)}")
