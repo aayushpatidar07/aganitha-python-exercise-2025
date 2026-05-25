@@ -4,6 +4,10 @@ import pandas as pd
 def is_academic(affiliation):
     if affiliation is None:
         return False
+
+
+
+    
     keywords = ["university", "institute", "college", "school", "faculty", "department"]
 
     return any(word in affiliation.lower() for word in keywords)
