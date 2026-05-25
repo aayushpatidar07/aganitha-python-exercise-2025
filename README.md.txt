@@ -13,11 +13,6 @@ This take-home assignment involved writing a Python program that fetches PubMed 
 - Filter papers with at least one non-academic author
 - Save valid entries to `filtered_output.csv`   '''
 
-
-
-
-////
-
 ## ⚙️ Tools and Libraries
 - Python 3.13
 - `requests` – for HTTP requests
