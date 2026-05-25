@@ -11,6 +11,22 @@ def is_academic(affiliation):
     keywords = ["university", "institute", "college", "school", "faculty", "department"]
 
     return any(word in affiliation.lower() for word in keywords)
+    
+import requests
+import pandas as pd
+
+def is_academic(affiliation):
+    if affiliation is None:
+        return False
+
+
+
+    
+    keywords = ["university", "institute", "college", "school", "faculty", "department"]
+
+    return any(word in affiliation.lower() for word in keywords)
+
+
 
 def fetch_papers(query, max_results=20):
     print(f"Fetching papers for query: {query}...\n")
