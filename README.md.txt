@@ -1,4 +1,4 @@
-## 📘 2. **report.pdf** (Yeh PDF file hogi — form me upload karni hoti hai)
+## 📘 2. **report.pdf**
 
 ### ✅ Ready-to-Use Report (You can copy to Notepad first)
 
