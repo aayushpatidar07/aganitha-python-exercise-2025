@@ -103,34 +103,34 @@ if __name__ == "__main__":
 #     response = requests.get(url, params=params)
 #     return response.text
 
-# def parse_and_filter(xml_data):
-#     from xml.etree import ElementTree as ET
-#     root = ET.fromstring(xml_data)
-#     filtered = []
+def parse_and_filter(xml_data):
+    from xml.etree import ElementTree as ET
+    root = ET.fromstring(xml_data)
+    filtered = []
 
-#     for article in root.findall(".//PubmedArticle"):
-#         title = article.findtext(".//ArticleTitle", default="No Title")
-#         affiliations = [aff.text for aff in article.findall(".//Affiliation")]
-#         if not affiliations:
-#             continue
+    for article in root.findall(".//PubmedArticle"):
+        title = article.findtext(".//ArticleTitle", default="No Title")
+        affiliations = [aff.text for aff in article.findall(".//Affiliation")]
+        if not affiliations:
+            continue
 
-#         if all(is_academic(aff) for aff in affiliations if aff):
-#             continue
+        if all(is_academic(aff) for aff in affiliations if aff):
+            continue
 
-#         filtered.append({"title": title, "affiliations": "; ".join(affiliations)})
+        filtered.append({"title": title, "affiliations": "; ".join(affiliations)})
 
-#     return filtered
+    return filtered
 
-# def save_to_csv(data, filename="filtered_output.csv"):
-#     df = pd.DataFrame(data)
-#     df.to_csv(filename, index=False)
-#     print(f"\n✅ Done! Filtered papers saved to '{filename}'")
+def save_to_csv(data, filename="filtered_output.csv"):
+    df = pd.DataFrame(data)
+    df.to_csv(filename, index=False)
+    print(f"\n✅ Done! Filtered papers saved to '{filename}'")
 
-# if __name__ == "__main__":
-#     query = input("🔍 Enter your PubMed search keyword: ")
-#     ids = fetch_papers(query)
-#     xml_data = fetch_details(ids)
-#     filtered = parse_and_filter(xml_data)
-#     save_to_csv(filtered)
+if __name__ == "__main__":
+    query = input("🔍 Enter your PubMed search keyword: ")
+    ids = fetch_papers(query)
+    xml_data = fetch_details(ids)
+    filtered = parse_and_filter(xml_data)
+    save_to_csv(filtered)
     
-#     print(f"\nTotal papers fetched: {len(ids)}")
+    print(f"\nTotal papers fetched: {len(ids)}")
