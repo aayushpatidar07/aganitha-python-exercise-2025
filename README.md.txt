@@ -33,9 +33,6 @@ This take-home assignment involved writing a Python program that fetches PubMed 
 > Output File: `filtered_output.csv`
 Output File: `filtered_output.csv
 
-
-
-
 ## 📌 Result
 The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
 
@@ -44,12 +41,6 @@ The resulting CSV contains only those research papers with at least one non-acad
 Email: patidaraayush.62@gmail.com  
 Candidate ID: Naukri072025
 
-
-
-''''
-
-
-'''
 
 
 
