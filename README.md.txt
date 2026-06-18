@@ -56,7 +56,469 @@ The resulting CSV contains only those research papers with at least one non-acad
 Email: patidaraayush.62@gmail.com  
 Candidate ID: Naukri072025
 
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
 
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+v## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+
+
+## ✅ Sample Query
+> Input: `machine learning in healthcare`
+
+> Output File: `filtered_output.csv`
+Output File: `filtered_output.csv
+
+## 📌 Result
+The resulting CSV contains only those research papers with at least one non-academic author, ensuring proper filtering.
+
+## 🧑‍💻 Author
+**Aayush Patidar**  
+Email: patidaraayush.62@gmail.com  
+Candidate ID: Naukri072025
+vvv
 
 
 
