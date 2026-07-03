@@ -540,8 +540,7 @@ This take-home assignment involved writing a Python program that fetches PubMed 
 ## 🧠 Objective
 - Use PubMed API to fetch paper metadata
 - Filter papers with at least one non-academic author
-- Save valid entries to `filtered_output.csv`   '''
-
+- Save valid entries
 
 
 
