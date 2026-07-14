@@ -1,3 +1,24 @@
+✅ Ready-to-Use Report (You can copy to Notepad first)
+
+```markdown
+# Aganitha - Python Take Home Exercise 2025  &n278
+
+## 👋 Introduction
+This take-home assignment involved writing a Python program that fetches PubMed research papers for a user-specified keyword, filters papers based on author affiliation, and saves the results in CSV format.
+
+## 🧠 Objective
+- Use PubMed API to fetch paper metadata
+- Filter papers with at least one non-academic author
+- Save valid entries to `filtered_output.csv`   '''
+## ⚙️ Tools and Libraries
+- Python 3.13
+- `requests` – for HTTP requests
+- `pandas` – for working with CSV and data filtering
+- PubMed E-utilities API
+
+## 🔍 Approach
+
+
 📘 2. **report.pdf**
 
 ✅ Ready-to-Use Report (You can copy to Notepad first)
